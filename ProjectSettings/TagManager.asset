@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Background
   - Level_Tiles
+  - Coin counter
+  - Object
   layers:
   - Default
   - TransparentFX
