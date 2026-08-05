@@ -280,10 +280,10 @@ TextureImporter:
       name: spritesheet-enemies-default_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 454
-        width: 58
-        height: 58
+        x: 4
+        y: 450
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,9 +303,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 68
-        y: 454
-        width: 58
-        height: 63
+        y: 450
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +324,10 @@ TextureImporter:
       name: spritesheet-enemies-default_2
       rect:
         serializedVersion: 2
-        x: 133
-        y: 454
-        width: 58
-        height: 44
+        x: 132
+        y: 450
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,9 +347,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 196
-        y: 461
-        width: 62
-        height: 53
+        y: 450
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: spritesheet-enemies-default_4
       rect:
         serializedVersion: 2
-        x: 259
-        y: 465
+        x: 260
+        y: 450
         width: 64
-        height: 42
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: spritesheet-enemies-default_5
       rect:
         serializedVersion: 2
-        x: 326
-        y: 461
-        width: 62
-        height: 53
+        x: 324
+        y: 450
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,10 +412,10 @@ TextureImporter:
       name: spritesheet-enemies-default_6
       rect:
         serializedVersion: 2
-        x: 389
-        y: 454
-        width: 66
-        height: 65
+        x: 388
+        y: 450
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +434,10 @@ TextureImporter:
       name: spritesheet-enemies-default_7
       rect:
         serializedVersion: 2
-        x: 454
-        y: 454
-        width: 65
-        height: 65
+        x: 452
+        y: 450
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +456,10 @@ TextureImporter:
       name: spritesheet-enemies-default_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 389
-        width: 65
-        height: 66
+        x: 4
+        y: 386
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: spritesheet-enemies-default_9
       rect:
         serializedVersion: 2
-        x: 65
-        y: 394
+        x: 68
+        y: 386
         width: 64
-        height: 54
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +500,10 @@ TextureImporter:
       name: spritesheet-enemies-default_10
       rect:
         serializedVersion: 2
-        x: 129
-        y: 394
-        width: 66
-        height: 54
+        x: 132
+        y: 386
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,9 +523,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 196
-        y: 396
-        width: 62
-        height: 50
+        y: 386
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,10 +544,10 @@ TextureImporter:
       name: spritesheet-enemies-default_12
       rect:
         serializedVersion: 2
-        x: 263
-        y: 389
-        width: 58
-        height: 66
+        x: 260
+        y: 386
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,10 +566,10 @@ TextureImporter:
       name: spritesheet-enemies-default_13
       rect:
         serializedVersion: 2
-        x: 328
-        y: 389
-        width: 58
-        height: 66
+        x: 324
+        y: 386
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,10 +588,10 @@ TextureImporter:
       name: spritesheet-enemies-default_14
       rect:
         serializedVersion: 2
-        x: 393
-        y: 389
-        width: 58
-        height: 62
+        x: 388
+        y: 386
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,10 +610,10 @@ TextureImporter:
       name: spritesheet-enemies-default_15
       rect:
         serializedVersion: 2
-        x: 454
-        y: 394
-        width: 65
-        height: 55
+        x: 452
+        y: 386
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,10 +632,10 @@ TextureImporter:
       name: spritesheet-enemies-default_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 329
-        width: 65
-        height: 55
+        x: 4
+        y: 322
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,10 +654,10 @@ TextureImporter:
       name: spritesheet-enemies-default_17
       rect:
         serializedVersion: 2
-        x: 66
-        y: 331
-        width: 62
-        height: 51
+        x: 68
+        y: 322
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -676,10 +676,10 @@ TextureImporter:
       name: spritesheet-enemies-default_18
       rect:
         serializedVersion: 2
-        x: 136
-        y: 326
-        width: 52
-        height: 61
+        x: 132
+        y: 322
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,9 +699,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 196
-        y: 330
-        width: 62
-        height: 49
+        y: 322
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,10 +720,10 @@ TextureImporter:
       name: spritesheet-enemies-default_20
       rect:
         serializedVersion: 2
-        x: 266
-        y: 326
-        width: 52
-        height: 61
+        x: 260
+        y: 322
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,9 +743,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 324
-        y: 324
-        width: 66
-        height: 58
+        y: 322
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: spritesheet-enemies-default_22
       rect:
         serializedVersion: 2
-        x: 389
-        y: 324
-        width: 66
-        height: 66
+        x: 388
+        y: 322
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,10 +786,10 @@ TextureImporter:
       name: spritesheet-enemies-default_23
       rect:
         serializedVersion: 2
-        x: 454
-        y: 324
-        width: 65
-        height: 66
+        x: 452
+        y: 322
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -808,10 +808,10 @@ TextureImporter:
       name: spritesheet-enemies-default_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 259
+        x: 4
+        y: 258
         width: 64
-        height: 63
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -830,10 +830,10 @@ TextureImporter:
       name: spritesheet-enemies-default_25
       rect:
         serializedVersion: 2
-        x: 64
-        y: 259
-        width: 65
-        height: 52
+        x: 68
+        y: 258
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -852,10 +852,10 @@ TextureImporter:
       name: spritesheet-enemies-default_26
       rect:
         serializedVersion: 2
-        x: 64
-        y: 194
-        width: 66
-        height: 66
+        x: 132
+        y: 258
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,10 +874,10 @@ TextureImporter:
       name: spritesheet-enemies-default_27
       rect:
         serializedVersion: 2
-        x: 129
-        y: 259
-        width: 65
-        height: 52
+        x: 196
+        y: 258
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,10 +896,10 @@ TextureImporter:
       name: spritesheet-enemies-default_28
       rect:
         serializedVersion: 2
-        x: 137
-        y: 194
-        width: 50
-        height: 66
+        x: 260
+        y: 258
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -918,10 +918,10 @@ TextureImporter:
       name: spritesheet-enemies-default_29
       rect:
         serializedVersion: 2
-        x: 196
-        y: 259
-        width: 63
-        height: 54
+        x: 324
+        y: 258
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -940,10 +940,10 @@ TextureImporter:
       name: spritesheet-enemies-default_30
       rect:
         serializedVersion: 2
-        x: 259
-        y: 259
-        width: 66
-        height: 44
+        x: 388
+        y: 258
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -962,10 +962,10 @@ TextureImporter:
       name: spritesheet-enemies-default_31
       rect:
         serializedVersion: 2
-        x: 324
-        y: 259
-        width: 66
-        height: 49
+        x: 452
+        y: 258
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -984,10 +984,10 @@ TextureImporter:
       name: spritesheet-enemies-default_32
       rect:
         serializedVersion: 2
-        x: 391
-        y: 259
-        width: 63
-        height: 51
+        x: 4
+        y: 194
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1006,10 +1006,10 @@ TextureImporter:
       name: spritesheet-enemies-default_33
       rect:
         serializedVersion: 2
-        x: 454
-        y: 259
-        width: 65
-        height: 66
+        x: 68
+        y: 194
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1028,10 +1028,10 @@ TextureImporter:
       name: spritesheet-enemies-default_34
       rect:
         serializedVersion: 2
-        x: 0
-        y: 195
+        x: 132
+        y: 194
         width: 64
-        height: 63
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1050,10 +1050,10 @@ TextureImporter:
       name: spritesheet-enemies-default_35
       rect:
         serializedVersion: 2
-        x: 198
+        x: 196
         y: 194
-        width: 58
-        height: 58
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1072,10 +1072,10 @@ TextureImporter:
       name: spritesheet-enemies-default_36
       rect:
         serializedVersion: 2
-        x: 263
+        x: 260
         y: 194
-        width: 58
-        height: 58
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1096,8 +1096,8 @@ TextureImporter:
         serializedVersion: 2
         x: 324
         y: 194
-        width: 66
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1116,10 +1116,10 @@ TextureImporter:
       name: spritesheet-enemies-default_38
       rect:
         serializedVersion: 2
-        x: 393
+        x: 388
         y: 194
-        width: 58
-        height: 32
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1138,10 +1138,10 @@ TextureImporter:
       name: spritesheet-enemies-default_39
       rect:
         serializedVersion: 2
-        x: 458
+        x: 452
         y: 194
-        width: 58
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1160,10 +1160,10 @@ TextureImporter:
       name: spritesheet-enemies-default_40
       rect:
         serializedVersion: 2
-        x: 3
-        y: 129
-        width: 58
-        height: 55
+        x: 4
+        y: 130
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,10 +1182,10 @@ TextureImporter:
       name: spritesheet-enemies-default_41
       rect:
         serializedVersion: 2
-        x: 64
-        y: 129
-        width: 66
-        height: 50
+        x: 68
+        y: 130
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,9 +1205,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 132
-        y: 129
-        width: 60
-        height: 22
+        y: 130
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1226,10 +1226,10 @@ TextureImporter:
       name: spritesheet-enemies-default_43
       rect:
         serializedVersion: 2
-        x: 198
-        y: 129
-        width: 58
-        height: 44
+        x: 196
+        y: 130
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1248,10 +1248,10 @@ TextureImporter:
       name: spritesheet-enemies-default_44
       rect:
         serializedVersion: 2
-        x: 263
-        y: 129
-        width: 58
-        height: 44
+        x: 260
+        y: 130
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1271,9 +1271,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 324
-        y: 129
-        width: 66
-        height: 38
+        y: 130
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1292,10 +1292,10 @@ TextureImporter:
       name: spritesheet-enemies-default_46
       rect:
         serializedVersion: 2
-        x: 393
-        y: 129
-        width: 58
-        height: 38
+        x: 388
+        y: 130
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1314,10 +1314,10 @@ TextureImporter:
       name: spritesheet-enemies-default_47
       rect:
         serializedVersion: 2
-        x: 458
-        y: 129
-        width: 58
-        height: 60
+        x: 452
+        y: 130
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1336,10 +1336,10 @@ TextureImporter:
       name: spritesheet-enemies-default_48
       rect:
         serializedVersion: 2
-        x: 3
-        y: 64
-        width: 58
-        height: 60
+        x: 4
+        y: 66
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1358,10 +1358,10 @@ TextureImporter:
       name: spritesheet-enemies-default_49
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 66
-        height: 55
+        x: 68
+        y: 66
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1380,10 +1380,10 @@ TextureImporter:
       name: spritesheet-enemies-default_50
       rect:
         serializedVersion: 2
-        x: 129
-        y: 64
-        width: 66
-        height: 53
+        x: 132
+        y: 66
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1402,10 +1402,10 @@ TextureImporter:
       name: spritesheet-enemies-default_51
       rect:
         serializedVersion: 2
-        x: 199
-        y: 64
-        width: 56
-        height: 42
+        x: 196
+        y: 66
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1424,10 +1424,10 @@ TextureImporter:
       name: spritesheet-enemies-default_52
       rect:
         serializedVersion: 2
-        x: 259
-        y: 64
-        width: 66
-        height: 53
+        x: 260
+        y: 66
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,9 +1447,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 324
-        y: 64
-        width: 66
-        height: 55
+        y: 66
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1468,10 +1468,10 @@ TextureImporter:
       name: spritesheet-enemies-default_54
       rect:
         serializedVersion: 2
-        x: 389
-        y: 64
-        width: 66
-        height: 30
+        x: 388
+        y: 66
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1490,10 +1490,10 @@ TextureImporter:
       name: spritesheet-enemies-default_55
       rect:
         serializedVersion: 2
-        x: 454
-        y: 64
-        width: 65
-        height: 30
+        x: 452
+        y: 66
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1512,10 +1512,10 @@ TextureImporter:
       name: spritesheet-enemies-default_56
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 65
-        height: 25
+        x: 4
+        y: 2
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1534,10 +1534,10 @@ TextureImporter:
       name: spritesheet-enemies-default_57
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 66
-        height: 31
+        x: 68
+        y: 2
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1556,10 +1556,10 @@ TextureImporter:
       name: spritesheet-enemies-default_58
       rect:
         serializedVersion: 2
-        x: 129
-        y: 0
-        width: 66
-        height: 29
+        x: 132
+        y: 2
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1578,10 +1578,10 @@ TextureImporter:
       name: spritesheet-enemies-default_59
       rect:
         serializedVersion: 2
-        x: 194
-        y: 0
-        width: 66
-        height: 29
+        x: 196
+        y: 2
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1596,11 +1596,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: spritesheet-enemies-default_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344e3d7d947b3e44a9a38abbca795b9f
+      internalID: -931841168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-enemies-default_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e63a95500732a48a820237e0adf1c1
+      internalID: 362605762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-enemies-default_62
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc25de7dbc6fd46846c8830111c1da
+      internalID: -682934558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-enemies-default_63
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a5f3fdb4623c408e536ff7bccd98c
+      internalID: 1577211358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 366f746f0c35fc941989d443cd175bb2
     internalID: 0
     vertices: []
     indices: 
@@ -1667,6 +1755,10 @@ TextureImporter:
       spritesheet-enemies-default_58: 9107658225539401947
       spritesheet-enemies-default_59: -50735043475814882
       spritesheet-enemies-default_6: 3205652936629761601
+      spritesheet-enemies-default_60: -931841168
+      spritesheet-enemies-default_61: 362605762
+      spritesheet-enemies-default_62: -682934558
+      spritesheet-enemies-default_63: 1577211358
       spritesheet-enemies-default_7: 6703776934847484372
       spritesheet-enemies-default_8: 6676955799227460392
       spritesheet-enemies-default_9: 4966256765803392008
